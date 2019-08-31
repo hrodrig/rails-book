@@ -2,7 +2,7 @@
 
 [Ruby on Rails](http://rubyonrails.org/) es el framework más popular para crear aplicaciones Web en [Ruby](https://www.ruby-lang.org/). Fue creado por [David Heinemeier Hansson](http://david.heinemeierhansson.com/) en 2003 cuando construía [Basecamp](https://basecamp.com/), una aplicación que le permite a las empresas organizar y administrar sus proyectos.
 
-[Ruby on Rails](http://rubyonrails.org/) es un proyecto de código de abierto (open source) sobre el que corren cientos de miles de aplicaciones incluyendo nombre importantes como Github, Groupon, Airbnb y Shopify, entre otros.
+[Ruby on Rails](http://rubyonrails.org/) es un proyecto de código de abierto (open source) sobre el que corren cientos de miles de aplicaciones incluyendo nombres importantes como Github, Groupon, Airbnb y Shopify, entre otros.
 
 Al igual que [Ruby](https://www.ruby-lang.org/), [Ruby on Rails](http://rubyonrails.org/) ha sido diseñado pensando en la productividad y felicidad del programador, y esto lo hace ideal para principiantes que quieren crear sus propias aplicaciones Web.
 
